@@ -21,9 +21,6 @@ lowest salary:
 ```sql
 SELECT * FROM employee_table WHERE current = true ORDER BY salary DESC
 ```
-
-Additional reference material if needed: https://www.w3schools.com/sql/sql_orderby.asp
-
 - - - 
 
 # Lab
